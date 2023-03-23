@@ -1,1 +1,2 @@
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lfkdsk&count_private=true&include_all_commits=true"/>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=lfkdsk&show_icons=true&include_all_commits=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfkdsk&layout=compact&hide_border=true" /> |
+| ------------- | ------------- |
