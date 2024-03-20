@@ -8,4 +8,11 @@
 </a>
 <br></br> 
 
-![](https://komarev.com/ghpvc/?username=lfkdsk)
+Gallery heatmap:
+
+<a align="center" href="https://lfkdsk.github.io/gallery/status">
+<img align="center" src="https://github.com/lfkdsk/gallery-daily/blob/daily/year0.png" style="width:822px" />
+</a>
+<br></br> 
+<!-- ![](https://komarev.com/ghpvc/?username=lfkdsk)
+ -->
