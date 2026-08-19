@@ -16,3 +16,5 @@ Gallery heatmap:
 <br></br> 
 <!-- ![](https://komarev.com/ghpvc/?username=lfkdsk)
  -->
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/lfkdsk/svg?template=graph&color=green&tokens=compact&cost=compact)](https://tokscale.ai/u/lfkdsk)
