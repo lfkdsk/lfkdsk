@@ -4,17 +4,22 @@
 (The following picture will change daily~)
 
 <a align="center" href="https://lfkdsk.github.io/gallery">
-<img align="center" src="https://github.com/lfkdsk/gallery-daily/blob/daily/daily.png" style="width:822px" />
+<img align="center" src="https://github.com/lfkdsk/gallery-daily/blob/daily/daily.svg" style="width:822px" />
 </a>
 <br></br> 
 
 Gallery heatmap:
 
 <a align="center" href="https://lfkdsk.github.io/gallery/status">
-<img align="center" src="https://github.com/lfkdsk/gallery-daily/blob/daily/year0.png" style="width:822px" />
+<img align="center" src="https://github.com/lfkdsk/gallery-daily/blob/daily/year0.svg" style="width:822px" />
 </a>
 <br></br> 
 <!-- ![](https://komarev.com/ghpvc/?username=lfkdsk)
  -->
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/lfkdsk/svg?template=graph&color=green&tokens=compact&cost=compact)](https://tokscale.ai/u/lfkdsk)
+<a align="center">
+<img align="center" src="https://tokscale.ai/api/embed/lfkdsk/svg?template=graph&color=green&tokens=compact&cost=compact" style="width:822px" />
+</a>
+<br></br> 
+
+<!-- [![Tokscale Stats](https://tokscale.ai/api/embed/lfkdsk/svg?template=graph&color=green&tokens=compact&cost=compact)](https://tokscale.ai/u/lfkdsk) -->
