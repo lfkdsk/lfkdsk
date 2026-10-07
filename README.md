@@ -17,9 +17,9 @@ Gallery heatmap:
 <!-- ![](https://komarev.com/ghpvc/?username=lfkdsk)
  -->
 
-<a align="center">
+<!-- <a align="center">
 <img align="center" src="https://tokscale.ai/api/embed/lfkdsk/svg?template=graph&color=green&tokens=compact&cost=compact" style="width:822px" />
 </a>
-<br></br> 
+<br></br>  -->
 
 <!-- [![Tokscale Stats](https://tokscale.ai/api/embed/lfkdsk/svg?template=graph&color=green&tokens=compact&cost=compact)](https://tokscale.ai/u/lfkdsk) -->
